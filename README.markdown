@@ -1,3 +1,5 @@
+# Captcha
+
 ### Info
 
 This is a simple CAPTCHA Class, written in PHP4. 
