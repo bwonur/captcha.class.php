@@ -1,8 +1,8 @@
-###Info
+### Info
 
 This is a simple CAPTCHA Class, written in PHP4. 
 
-###Parameters
+### Parameters
 
 `s: user defined captcha text`
 
@@ -10,7 +10,7 @@ This is a simple CAPTCHA Class, written in PHP4.
 
 More settings can be changed in the class ...
 
-###How to use it
+### How to use it
 
 Just call the captcha.php file and pass the desired type and/or a predefined captcha text.
 
@@ -46,19 +46,19 @@ CAPTCHA Types:
 
 `6 : All together`
 
-###Example
+### Example
 
 The image:
 `<img name="user_captcha" src="captcha.php?c=5" alt="" />`
 
 Verification code (sample): See captcha.php file ...
 
-###Requirements
+### Requirements
 
 This is a PHP4-like class, however it should work unchanged under PHP5.
 You can find more details in the code...
 
-###License
+### License
 
 See gpl.txt and lgpl.txt for licensing terms.
 
